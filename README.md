@@ -46,7 +46,6 @@ ggplot(data = Cannabiscitrin, aes(label = ResName, y= Backbone, x=CA))+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 ```
 
-
 ### make a plot epigallocatechin gallate complex
 ```
 ggplot(data = Epigallocatechin, aes(label = ResName, y= Backbone, x=CA))+
