@@ -1,9 +1,7 @@
 # Computational_identification_of_potential_modulators_of_heme_regulated_inhibitor_HRI_against_SCD
 Computational identification of potential modulators of heme-regulated inhibitor (HRI) for pharmacological intervention against sickle cell disease
 
-```
 ## Usage
-```
 
 ## import library
 
@@ -25,7 +23,7 @@ Tiliroside <- read_excel('Til_P_RMSF.xlsx')
 ## Create a .pdf out
 ```
 pdf(file = 'Supplementary.pdf',useDingbats = F, paper = 'a4r', width = 40, height = 40)
-``
+```
 
 ### make a plot for cannabiscitrin complex
 ```
@@ -64,7 +62,6 @@ ggplot(data = Epigallocatechin, aes(label = ResName, y= Backbone, x=CA))+
   scale_y_continuous(breaks = seq(1, 6, by = 1))+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 ```
-
 
 ### make a plot for Kaempferol-3-(2G-glucosylrutinoside) complex
 ```
