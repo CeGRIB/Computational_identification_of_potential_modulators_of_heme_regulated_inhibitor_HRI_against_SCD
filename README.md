@@ -1,5 +1,4 @@
-# Computational_identification_of_potential_modulators_of_heme_regulated_inhibitor_HRI_against_SCD
-Computational identification of potential modulators of heme-regulated inhibitor (HRI) for pharmacological intervention against sickle cell disease
+# Computational identification of potential modulators of heme-regulated inhibitor (HRI) for pharmacological intervention against sickle cell disease
 
 ## Usage
 
@@ -128,12 +127,13 @@ dev.off()
 ```
 
 ## Contributing
+[Kolapo Oyebola](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
+[Afolabi Owoloye](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
+[Adewale Ogunleye](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
+[Funilayo Ligali](https://www.linkedin.com/in/funmilayo-ligali-9746a2184/)
+[Samuel Olubode](https://www.linkedin.com/in/samuel-olawale-olubode-6191a81aa/)
+[Taiwo Idowu](https://scholar.google.com/citations?hl=en&user=ViS6ndQAAAAJ)
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+## Check out handle for more publications
 
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+[CeGRIB](https://www.linkedin.com/company/81576850/admin/feed/posts/)https://www.linkedin.com/company/81576850/admin/feed/posts/)
