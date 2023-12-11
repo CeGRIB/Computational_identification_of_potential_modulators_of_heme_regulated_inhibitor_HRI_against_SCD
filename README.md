@@ -3,7 +3,7 @@
 
 [Afolabi Owoloye](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
 [Samuel Olubode](https://www.linkedin.com/in/samuel-olawale-olubode-6191a81aa/)
-[Funilayo Ligali](https://www.linkedin.com/in/funmilayo-ligali-9746a2184/)
+[Funmilayo Ligali](https://www.linkedin.com/in/funmilayo-ligali-9746a2184/)
 [Adewale Ogunleye](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
 [Adesola Musa](https://scholar.google.com/citations?hl=en&user=nNIdzW8AAAAJ)
 [Oluwagbemiga Aina](https://scholar.google.com/citations?user=UUlhAz4AAAAJ&hl=en&oi=sra)
