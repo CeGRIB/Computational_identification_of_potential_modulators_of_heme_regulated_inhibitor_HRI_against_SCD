@@ -1,5 +1,5 @@
-# Computational identification of potential modulators of heme-regulated inhibitor (HRI) for pharmacological intervention against sickle cell disease
-## Authors
+## Computational identification of potential modulators of heme-regulated inhibitor (HRI) for pharmacological intervention against sickle cell disease
+### Authors
 
 [Afolabi Owoloye](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
 [Samuel Olubode](https://www.linkedin.com/in/samuel-olawale-olubode-6191a81aa/)
@@ -9,9 +9,10 @@
 [Oluwagbemiga Aina](https://scholar.google.com/citations?user=UUlhAz4AAAAJ&hl=en&oi=sra)
 [Taiwo Idowu](https://scholar.google.com/citations?hl=en&user=ViS6ndQAAAAJ)
 [Kolapo Oyebola](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
-## Usage
 
-## import library
+### Usage
+
+### import library
 
 ```
 library(ggplot2)
@@ -19,7 +20,7 @@ library(ggrepel)
 library(readxl)
 ```
 
-## read data
+### read data
 ```
 Cannabiscitrin <- read_excel("Can_P_RMSF.xlsx")
 Epigallocatechin <- read_excel('Epi_P_RMSF.xlsx')
@@ -28,12 +29,12 @@ Myricetin <- read_excel('Myri_P_RMSF.xlsx')
 Tiliroside <- read_excel('Til_P_RMSF.xlsx')
 ```
 
-## Create a .pdf out
+### Create a .pdf out
 ```
 pdf(file = 'Supplementary.pdf',useDingbats = F, paper = 'a4r', width = 40, height = 40)
 ```
 
-### make a plot for cannabiscitrin complex
+#### make a plot for cannabiscitrin complex
 ```
 ggplot(data = Cannabiscitrin, aes(label = ResName, y= Backbone, x=CA))+
   geom_line(color='darkorchid', lwd=0.4)+
@@ -52,7 +53,7 @@ ggplot(data = Cannabiscitrin, aes(label = ResName, y= Backbone, x=CA))+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 ```
 
-### make a plot epigallocatechin gallate complex
+#### make a plot epigallocatechin gallate complex
 ```
 ggplot(data = Epigallocatechin, aes(label = ResName, y= Backbone, x=CA))+
   geom_line(color='blue', lwd=0.4)+
@@ -71,7 +72,7 @@ ggplot(data = Epigallocatechin, aes(label = ResName, y= Backbone, x=CA))+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 ```
 
-### make a plot for Kaempferol-3-(2G-glucosylrutinoside) complex
+#### make a plot for Kaempferol-3-(2G-glucosylrutinoside) complex
 ```
 ggplot(data = Kaempferol, aes(label = ResName, y= Backbone, x=CA))+
   geom_line(color='red', lwd=0.4)+
@@ -90,8 +91,7 @@ ggplot(data = Kaempferol, aes(label = ResName, y= Backbone, x=CA))+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 ```
 
-
-### make a plot for myricetin complex
+#### make a plot for myricetin complex
 ```
 ggplot(data = Myricetin, aes(label = ResName, y= Backbone, x=CA))+
   geom_line(color='springgreen3', lwd=0.4)+
@@ -110,8 +110,7 @@ ggplot(data = Myricetin, aes(label = ResName, y= Backbone, x=CA))+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 ```
 
-
-### make a plot for tiliroside complex
+#### make a plot for tiliroside complex
 ```
 ggplot(data = Tiliroside, aes(label = ResName, y= Backbone, x=CA))+
   geom_line(color='orange2', lwd=0.4)+
