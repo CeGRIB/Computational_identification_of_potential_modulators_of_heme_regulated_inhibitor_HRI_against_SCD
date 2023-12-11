@@ -1,5 +1,14 @@
 # Computational identification of potential modulators of heme-regulated inhibitor (HRI) for pharmacological intervention against sickle cell disease
+## Authors
 
+[Afolabi Owoloye](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
+[Samuel Olubode](https://www.linkedin.com/in/samuel-olawale-olubode-6191a81aa/)
+[Funilayo Ligali](https://www.linkedin.com/in/funmilayo-ligali-9746a2184/)
+[Adewale Ogunleye](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
+[Adesola Musa](https://scholar.google.com/citations?hl=en&user=nNIdzW8AAAAJ)
+[Oluwagbemiga Aina](https://scholar.google.com/citations?user=UUlhAz4AAAAJ&hl=en&oi=sra)
+[Taiwo Idowu](https://scholar.google.com/citations?hl=en&user=ViS6ndQAAAAJ)
+[Kolapo Oyebola](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
 ## Usage
 
 ## import library
@@ -127,12 +136,10 @@ dev.off()
 ```
 
 ## Contributing
-[Kolapo Oyebola](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
 [Afolabi Owoloye](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
 [Adewale Ogunleye](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
-[Funilayo Ligali](https://www.linkedin.com/in/funmilayo-ligali-9746a2184/)
 [Samuel Olubode](https://www.linkedin.com/in/samuel-olawale-olubode-6191a81aa/)
-[Taiwo Idowu](https://scholar.google.com/citations?hl=en&user=ViS6ndQAAAAJ)
+[Kolapo Oyebola](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
 
 ## Check out handle for more publications
 
