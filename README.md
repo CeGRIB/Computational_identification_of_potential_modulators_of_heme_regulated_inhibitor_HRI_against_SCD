@@ -12,7 +12,7 @@
 
 ### Usage
 
-### import library
+#### import library
 
 ```
 library(ggplot2)
@@ -20,7 +20,7 @@ library(ggrepel)
 library(readxl)
 ```
 
-### read data
+#### read data
 ```
 Cannabiscitrin <- read_excel("Can_P_RMSF.xlsx")
 Epigallocatechin <- read_excel('Epi_P_RMSF.xlsx')
@@ -29,7 +29,7 @@ Myricetin <- read_excel('Myri_P_RMSF.xlsx')
 Tiliroside <- read_excel('Til_P_RMSF.xlsx')
 ```
 
-### Create a .pdf out
+#### create a .pdf out
 ```
 pdf(file = 'Supplementary.pdf',useDingbats = F, paper = 'a4r', width = 40, height = 40)
 ```
@@ -129,7 +129,7 @@ ggplot(data = Tiliroside, aes(label = ResName, y= Backbone, x=CA))+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 ```
 
-
+#### quit and save .pdf file
 ```
 dev.off()
 ```
