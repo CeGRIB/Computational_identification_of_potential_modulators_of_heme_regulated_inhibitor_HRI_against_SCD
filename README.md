@@ -1,0 +1,2 @@
+# Computational_identification_of_potential_modulators_of_heme_regulated_inhibitor_HRI_against_SCD
+Computational identification of potential modulators of heme-regulated inhibitor (HRI) for pharmacological intervention against sickle cell disease
