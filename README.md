@@ -135,12 +135,12 @@ ggplot(data = Tiliroside, aes(label = ResName, y= Backbone, x=CA))+
 dev.off()
 ```
 
-## Contributing
+## Scrip contributors
 [Afolabi Owoloye](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
 [Adewale Ogunleye](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
 [Samuel Olubode](https://www.linkedin.com/in/samuel-olawale-olubode-6191a81aa/)
 [Kolapo Oyebola](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
 
-## Check out handle for more publications
+## Check out our handle for more publications
 
-[CeGRIB](https://www.linkedin.com/company/81576850/admin/feed/posts/)https://www.linkedin.com/company/81576850/admin/feed/posts/)
+[CeGRIB](https://www.linkedin.com/company/81576850/admin/feed/posts/)
