@@ -10,7 +10,7 @@
 [Taiwo Idowu<sup>2</sup>](https://scholar.google.com/citations?hl=en&user=ViS6ndQAAAAJ)
 [Kolapo Oyebola<sup>1,2</sup>](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
 
-<small><i>1.	Centre for Genomic Research in Biomedicine (CeGRIB), College of Basic and Applied Sciences, Mountain Top University, Ibafo, Nigeria. 2.	Nigerian Institute of Medical Research, Lagos, Nigeria. 3.	Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, University of Lagos, Lagos, Nigeria. 4.	Department of Biochemistry, Adekunle Ajasin University Akungba, Ondo State, Nigeria. 5.	Department of Biochemistry, Faculty of Basic Medical Science, University of Lagos, Lagos, Nigeria. 6.	Department of Microbiology, Biocenter, University of Würzburg, Würzburg, Germany.</i></small>
+<span style="font-size:0.5em"><i>1.	Centre for Genomic Research in Biomedicine (CeGRIB), College of Basic and Applied Sciences, Mountain Top University, Ibafo, Nigeria. 2.	Nigerian Institute of Medical Research, Lagos, Nigeria. 3.	Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, University of Lagos, Lagos, Nigeria. 4.	Department of Biochemistry, Adekunle Ajasin University Akungba, Ondo State, Nigeria. 5.	Department of Biochemistry, Faculty of Basic Medical Science, University of Lagos, Lagos, Nigeria. 6.	Department of Microbiology, Biocenter, University of Würzburg, Würzburg, Germany.</i></span>
 
 
 ### Usage
