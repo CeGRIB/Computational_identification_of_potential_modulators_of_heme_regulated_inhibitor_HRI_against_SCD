@@ -3,14 +3,11 @@
 
 [Afolabi Owoloye<sup>1,2,3</sup>](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
 [Samuel Olubode<sup>4</sup>](https://www.linkedin.com/in/samuel-olawale-olubode-6191a81aa/)
-[Funmilayo Ligali<sup>1,2,5</sup>](https://www.linkedin.com/in/funmilayo-ligali-9746a2184/)
-[Adewale Ogunleye<sup>6</sup>](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
-[Adesola Musa<sup>2</sup>](https://scholar.google.com/citations?hl=en&user=nNIdzW8AAAAJ)
-[Oluwagbemiga Aina<sup>2</sup>](https://scholar.google.com/citations?user=UUlhAz4AAAAJ&hl=en&oi=sra)
-[Taiwo Idowu<sup>2</sup>](https://scholar.google.com/citations?hl=en&user=ViS6ndQAAAAJ)
+[Adewale Ogunleye<sup>5</sup>](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
+[Taiwo Idowu<sup>3</sup>](https://scholar.google.com/citations?hl=en&user=ViS6ndQAAAAJ)
 [Kolapo Oyebola<sup>1,2</sup>](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
 
-<span style="font-size:0.5em"> <i>1.	Centre for Genomic Research in Biomedicine (CeGRIB), College of Basic and Applied Sciences, Mountain Top University, Ibafo, Nigeria. 2.	Nigerian Institute of Medical Research, Lagos, Nigeria. 3.	Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, University of Lagos, Lagos, Nigeria. 4.	Department of Biochemistry, Adekunle Ajasin University Akungba, Ondo State, Nigeria. 5.	Department of Biochemistry, Faculty of Basic Medical Science, University of Lagos, Lagos, Nigeria. 6.	Department of Microbiology, Biocenter, University of Würzburg, Würzburg, Germany.</i> </span>
+<span style="font-size:0.5em"> <i>1.	Centre for Genomic Research in Biomedicine (CeGRIB), College of Basic and Applied Sciences, Mountain Top University, Ibafo, Nigeria. 2.	Nigerian Institute of Medical Research, Lagos, Nigeria. 3.	Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, University of Lagos, Lagos, Nigeria. 4. Department of Biochemistry, Faculty of Basic Medical Science, University of Lagos, Lagos, Nigeria. 5.	Department of Microbiology, Biocenter, University of Würzburg, Würzburg, Germany.</i> </span>
 
 
 ### Usage
