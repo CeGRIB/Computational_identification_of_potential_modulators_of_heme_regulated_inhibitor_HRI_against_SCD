@@ -1,7 +1,6 @@
 ## Computational identification of potential modulators of heme-regulated inhibitor (HRI) for pharmacological intervention against sickle cell disease
-### Authors
 https://www.tandfonline.com/doi/abs/10.1080/07391102.2024.2331097
-
+### Authors
 [Afolabi Owoloye<sup>1,2,3</sup>](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
 [Samuel Olubode<sup>4</sup>](https://www.linkedin.com/in/samuel-olawale-olubode-6191a81aa/)
 [Adewale Ogunleye<sup>5</sup>](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
